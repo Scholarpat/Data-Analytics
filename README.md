@@ -1,2 +1,2 @@
 # Data-Analytics
-For work on data analysis including dashboard among others.
+For work on data analysis including dashboards among others.
